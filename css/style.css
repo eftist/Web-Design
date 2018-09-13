@@ -1,0 +1,131 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(../images/bac.jpeg);
+	background-size: cover;
+	font-family: sans-serif;
+	color: white;
+
+
+}
+
+.pow
+{
+	
+	text-align: center;
+	border:2px solid white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: -20px;
+
+}
+
+.hs
+{
+	text-align: center;
+}
+p
+{
+	text-align: center;
+}
+
+.loginbox
+{
+	
+box-sizing: border-box;
+background-color: rgba(0,0,0,.7);
+position: absolute;
+top: 50%;
+left: 50%;
+height: 550px;
+width: 350px;
+transform: translate(-50%,-50%);
+
+
+	
+}
+
+.loginbox input[type="text"],
+.loginbox input[type="password"]
+{
+	height: 40px;
+	padding-left: 10px;
+	width: 90%;
+
+}
+.tx
+{
+	margin-left: 10px;
+	
+}
+
+.sub
+{
+	color: white;
+	height: 40px;
+	width: 94%;
+	background-color: #F1705D;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 9px;
+	font-size: 17px;
+	}
+	.sub:hover
+	{
+	background-color: #ef3b0e;
+	}
+	
+
+	.fpass
+	{
+		text-decoration: none; 
+		background: #776571;
+		color: white;
+		padding: 12px 104px;
+		margin-top: 200px;
+		margin-left: 9px;
+		
+
+		
+	}
+
+	.fpass:hover
+	{
+		background-color: #444443;
+	}
+	.don
+	{
+		text-align: center;
+		margin-top: 50px;
+
+	}
+
+	.creat
+	{
+		color: white;
+		text-decoration: none;
+		border:2px solid white;
+		padding: 10px 30px;
+		position: absolute;
+		margin-left: 75px;
+		margin-top: 10px;
+
+	}
+	
+	.creat:hover
+	{
+		background-color: #7f7f7c;
+	}
+	
+
+	.lastd
+	{
+		background: black;
+	}
+	
+	.cltt
+	{
+		background: red;
+	}
